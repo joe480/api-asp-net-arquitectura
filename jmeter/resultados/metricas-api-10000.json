@@ -1,0 +1,1 @@
+{"POST /api/matriculas":{"muestras":1500000,"p50":39.91,"p95":58.01,"p99":59.96,"max":228.56},"GET /api/materias":{"muestras":1500000,"p50":14.76,"p95":23.87,"p99":26.48,"max":193.4}}

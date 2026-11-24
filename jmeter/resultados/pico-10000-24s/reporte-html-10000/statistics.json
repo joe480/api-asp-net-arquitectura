@@ -1,0 +1,50 @@
+{
+  "GET Consultar materias" : {
+    "transaction" : "GET Consultar materias",
+    "sampleCount" : 300000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 17.48438333333319,
+    "medianResTime" : 15.0,
+    "minResTime" : 4.0,
+    "maxResTime" : 117.0,
+    "pct1ResTime" : 23.0,
+    "pct2ResTime" : 24.0,
+    "pct3ResTime" : 36.0,
+    "throughput" : 12833.126577405143,
+    "receivedKBytesPerSec" : 14609.378383734547,
+    "sentKBytesPerSec" : 2744.584687941139
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 600000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 30.283844999999165,
+    "medianResTime" : 24.0,
+    "minResTime" : 4.0,
+    "maxResTime" : 145.0,
+    "pct1ResTime" : 52.0,
+    "pct2ResTime" : 56.0,
+    "pct3ResTime" : 59.0,
+    "throughput" : 25387.15410002539,
+    "receivedKBytesPerSec" : 18387.709815903465,
+    "sentKBytesPerSec" : 6212.1543396827665
+  },
+  "POST Inscribir materia" : {
+    "transaction" : "POST Inscribir materia",
+    "sampleCount" : 300000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 43.08330666666674,
+    "medianResTime" : 40.0,
+    "minResTime" : 19.0,
+    "maxResTime" : 145.0,
+    "pct1ResTime" : 56.0,
+    "pct2ResTime" : 58.0,
+    "pct3ResTime" : 60.0,
+    "throughput" : 12845.215157353887,
+    "receivedKBytesPerSec" : 3984.230156818668,
+    "sentKBytesPerSec" : 3539.1950080951615
+  }
+}

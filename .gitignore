@@ -1,0 +1,13 @@
+# Compilados de .NET (se regeneran con dotnet build)
+bin/
+obj/
+*.user
+.vs/
+.vscode/
+
+# Resultados crudos de JMeter: muy pesados (hasta 445 MB). Los reportes HTML ya los resumen.
+*.jtl
+*.log
+# Se conservan solo las corridas pequeñas como ejemplo
+!jmeter/resultados/aislada.jtl
+!jmeter/resultados/carga-200.jtl
